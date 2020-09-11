@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "directives-start"
+    }
+  },
+  "defaultProject": "directives-start",
+  "cli": {
+    "analytics": "adc56db1-19f2-4eee-9f23-7d358de030df"
+  }
 }

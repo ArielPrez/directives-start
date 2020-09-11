@@ -1,4 +1,7 @@
 .container {
     margin-top: 30px;
   }
-  
+.odd{
+  color: darkred;
+  width: fit-content;
+}
