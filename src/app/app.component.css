@@ -1,7 +1,8 @@
 .container {
     margin-top: 30px;
+    width: max-content;
   }
 .odd{
   color: darkred;
-  width: fit-content;
+  
 }
