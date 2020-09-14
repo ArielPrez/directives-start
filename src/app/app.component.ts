@@ -12,6 +12,7 @@ export class AppComponent {
   evenNum = [2, 4];
   onlyOdd = true;
   typeNum = 'Even';
+  valueForASwitch = 1;
   changeWord(){
     this.onlyOdd = !this.onlyOdd;
     if(!this.onlyOdd){
